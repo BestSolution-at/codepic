@@ -1,0 +1,10 @@
+@import '../node_modules/antd/dist/antd.css';
+@import './jetbrains-mono.css';
+@import './hack.css';
+
+.site-layout-content {
+    margin-top: 20px;
+    min-height: 280px;
+    padding: 24px;
+    background: #fff;
+  }
